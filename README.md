@@ -2,7 +2,7 @@
 Demo for Selenium Camp 2019 
 
 ## Presentation:
-#### [link](http://bit.ly/2Czjk2Z)
+#### [link](https://docs.google.com/presentation/d/1YE2c6DBg6itFGDDkbJX-Nos4eO8vEsmjnlwRdMjCkew/edit?usp=sharing)
 
 ## If you want to run a test:
 * ``git clone ``
