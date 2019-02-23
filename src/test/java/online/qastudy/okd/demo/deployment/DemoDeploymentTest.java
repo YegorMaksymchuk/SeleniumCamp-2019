@@ -13,7 +13,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import static org.assertj.core.api.Assertions.assertThat;
 
 
-public class DemoDeploymetnTest {
+public class DemoDeploymentTest {
     private DemoDeployment demoDeployment;
     private WebDriver driver;
 
