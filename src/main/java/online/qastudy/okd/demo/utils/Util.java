@@ -10,7 +10,7 @@ import java.util.concurrent.TimeoutException;
 public final class Util {
 
     public static final String HTTP = "http://";
-    public static final String APP_URL = "pod-demo-xpdays-2018.127.0.0.1.nip.io";
+    public static final String APP_URL = "pod-demo-seleniumcamp-2019.127.0.0.1.nip.io";
 
     private Util() {
     }

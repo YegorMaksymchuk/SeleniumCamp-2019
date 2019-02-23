@@ -26,6 +26,7 @@ public class DemoDeploymetnTest {
 
     @After
     public void cleanup() {
+
         demoDeployment.close();
     }
 
